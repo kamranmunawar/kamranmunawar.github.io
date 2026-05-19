@@ -20,6 +20,12 @@ Conducted an individual research project focused on Bayesian data analysis and p
 
 PDF report <https://kamranmunawar.github.io/MSC/Bayesian/Bayesian.pdf>
 
+## AI Ethics and Bias Mitigation in Machine Learning
+
+Conducted a comprehensive AI ethics and fairness analysis project focused on identifying and mitigating bias in machine learning models across protected demographic groups. Applied fairness metrics and bias mitigation techniques using real world datasets within regulated domains such as employment, housing, education, or credit risk analysis. Evaluated model fairness before and after preprocessing interventions using tools and methodologies inspired by IBM AI Fairness 360, comparing privileged and unprivileged groups across multiple outcome variables. Developed classification models, generated fairness visualizations, and analysed the ethical implications of algorithmic decision-making, model transparency, and bias reduction strategies in AI systems.
+
+PDF report <https://kamranmunawar.github.io/MSC/AIEthics/AI_Ethics_and_Society.pdf>
+
 ## Next Generation Nutrition Apps using NHANES Data
 
 Developed a machine learning driven nutrition and disease prediction platform using NHANES clinical and dietary datasets spanning 1999–2023. Built predictive models including Logistic Regression, Random Forest, and XGBoost to assess diabetes risk based on biometric, demographic, and lifestyle factors, achieving up to 95.5% model accuracy with XGBoost. Designed a Flask based API to serve predictions and integrated it with a Vue.js and D3.js interactive frontend for personalized health risk visualization and dietary recommendations. Implemented extensive data cleaning, feature engineering, and model evaluation pipelines in Python, while also exploring scalable deployment using Docker and Power BI dashboards for interactive analytics and visualization.
