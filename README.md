@@ -20,6 +20,12 @@ Conducted an individual research project focused on Bayesian data analysis and p
 
 PDF report <https://kamranmunawar.github.io/MSC/Bayesian/Bayesian.pdf>
 
+## Next Generation Nutrition Apps using NHANES Data
+
+Developed a machine learning driven nutrition and disease prediction platform using NHANES clinical and dietary datasets spanning 1999–2023. Built predictive models including Logistic Regression, Random Forest, and XGBoost to assess diabetes risk based on biometric, demographic, and lifestyle factors, achieving up to 95.5% model accuracy with XGBoost. Designed a Flask based API to serve predictions and integrated it with a Vue.js and D3.js interactive frontend for personalized health risk visualization and dietary recommendations. Implemented extensive data cleaning, feature engineering, and model evaluation pipelines in Python, while also exploring scalable deployment using Docker and Power BI dashboards for interactive analytics and visualization.
+
+PDF report <https://kamranmunawar.github.io/MSC/DVA/DVA.pdf>
+
 ## Unsupervised Learning and Dimensionality Reduction 
 
 Applied clustering algorithms (K-Means, GMM) and evaluated performance using the Silhouette Score. 
