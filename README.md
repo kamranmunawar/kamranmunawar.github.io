@@ -14,7 +14,7 @@ Generated and evaluated performance metrics, providing a robust framework for fu
 
 PDF report <https://kamranmunawar.github.io/MSC/fastMRI/fastMRI.pdf>
 
-##Bayesian Analysis Course Project
+## Bayesian Analysis Course Project
 
 Conducted an individual research project focused on Bayesian data analysis and probabilistic modeling. Selected and analysed a real-world dataset using Bayesian inference techniques to explore uncertainty, parameter estimation, and predictive modelling. Developed well-documented, reproducible code and presented findings through a structured technical report, including data interpretation, model evaluation, and visualization of results. The project emphasized statistical reasoning, experimentation, and applying Bayesian methods to practical analytical problems.
 
