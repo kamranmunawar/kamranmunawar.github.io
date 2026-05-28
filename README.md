@@ -1,3 +1,5 @@
+# Academic Projects
+
 ## fastMRI: AI-Driven MRI Enhancement
 
 Collaborated on a medical imaging research project with Facebook AI Research and NYU Langone Health focused on accelerating MRI reconstruction using deep learning. Developed and trained FastMRI U-Net reconstruction models in PyTorch using the fastMRI and MRNet datasets, with emphasis on improving clinically relevant knee pathology regions through heatmaps and segmentation masks. Built end-to-end training and evaluation pipelines, implemented weighted loss functions, and performed hyperparameter tuning to improve reconstruction quality and model performance. Contributed to performance benchmarking, metric generation (NMSE, PSNR, SSIM), and experimental analysis of attentive MRI reconstruction techniques using clinically guided region weighting
