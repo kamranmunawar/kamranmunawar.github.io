@@ -1,6 +1,4 @@
----
-layout: default
----
+
 Academic Projects by Kamran Munawar
 
 # Academic Projects
