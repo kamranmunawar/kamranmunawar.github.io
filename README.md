@@ -1,16 +1,9 @@
 # Academic Projects
 
 
-## fastMRI: AI-Driven MRI Enhancement 
-Collaborative research with Facebook AI Research (FAIR) and NYU Langone Health 
+## fastMRI: AI-Driven MRI Enhancement
 
-Implemented a fastMRI U-Net model in PyTorch to accelerate MRI scans, focusing on knee pathology using masks and heatmaps to prioritize key regions. 
-
-Developed an end-to-end training pipeline, leveraging the MRNet and fastMRI datasets for heatmap generation and image reconstruction. 
-
-Applied weighted loss functions and hyperparameter tuning to enhance model performance. 
-
-Generated and evaluated performance metrics, providing a robust framework for further experimentation. 
+Collaborated on a medical imaging research project with Facebook AI Research and NYU Langone Health focused on accelerating MRI reconstruction using deep learning. Developed and trained FastMRI U-Net reconstruction models in PyTorch using the fastMRI and MRNet datasets, with emphasis on improving clinically relevant knee pathology regions through heatmaps and segmentation masks. Built end-to-end training and evaluation pipelines, implemented weighted loss functions, and performed hyperparameter tuning to improve reconstruction quality and model performance. Contributed to performance benchmarking, metric generation (NMSE, PSNR, SSIM), and experimental analysis of attentive MRI reconstruction techniques using clinically guided region weighting
 
 PDF report <https://kamranmunawar.github.io/MSC/fastMRI/fastMRI.pdf>
 
