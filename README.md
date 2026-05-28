@@ -7,7 +7,7 @@ Collaborated on a medical imaging research project with Facebook AI Research and
 
 PDF report <https://kamranmunawar.github.io/MSC/fastMRI/fastMRI.pdf>
 
-## Bayesian Analysis Course Project
+## Bayesian Analysis 
 
 Conducted an individual research project focused on Bayesian data analysis and probabilistic modeling. Selected and analysed a real world dataset using Bayesian inference techniques to explore uncertainty, parameter estimation, and predictive modelling. Developed well documented, reproducible code and presented findings through a structured technical report, including data interpretation, model evaluation, and visualization of results. The project emphasized statistical reasoning, experimentation, and applying Bayesian methods to practical analytical problems.
 
@@ -31,7 +31,7 @@ Conducted a comprehensive AI ethics and fairness analysis project focused on ide
 
 PDF report <https://kamranmunawar.github.io/MSC/AIEthics/AI_Ethics_and_Society.pdf>
 
-## Next Generation Nutrition Apps using NHANES Data
+## Nutrition Apps using NHANES Data
 
 Developed a machine learning driven nutrition and disease prediction platform using NHANES clinical and dietary datasets spanning 1999–2023. Built predictive models including Logistic Regression, Random Forest, and XGBoost to assess diabetes risk based on biometric, demographic, and lifestyle factors, achieving up to 95.5% model accuracy with XGBoost. Designed a Flask based API to serve predictions and integrated it with a Vue.js and D3.js interactive frontend for personalized health risk visualization and dietary recommendations. Implemented extensive data cleaning, feature engineering, and model evaluation pipelines in Python, while also exploring scalable deployment using Docker and Power BI dashboards for interactive analytics and visualization.
 
