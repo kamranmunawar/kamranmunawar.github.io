@@ -1,4 +1,4 @@
-# Academic Projects
+# Academic Projects by Kamran Munawar
 
 
 ## fastMRI: AI-Driven MRI Enhancement
