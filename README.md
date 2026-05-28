@@ -37,39 +37,31 @@ Developed a machine learning driven nutrition and disease prediction platform us
 
 PDF report <https://kamranmunawar.github.io/MSC/DVA/DVA.pdf>
 
-## Unsupervised Learning and Dimensionality Reduction 
+## Unsupervised Learning and Dimensionality Reduction
 
-Applied clustering algorithms (K-Means, GMM) and evaluated performance using the Silhouette Score. 
-
-Implemented dimensionality reduction techniques, including PCA, ICA, Random Projection (RP), and Locally Linear Embedding (LLE), to reduce noise and simplify datasets while preserving key information. 
+Applied unsupervised machine learning techniques to analyse and optimize high dimensional datasets using clustering and dimensionality reduction algorithms in Python and scikit learn. Implemented and compared K-Means and Gaussian Mixture Models (GMM), evaluating clustering quality using Silhouette Scores across multiple datasets. Explored dimensionality reduction methods including Principal Component Analysis (PCA), Independent Component Analysis (ICA), Random Projection (RP), and Locally Linear Embedding (LLE) to reduce noise, preserve meaningful structure, and improve clustering performance. Integrated reduced dimensional datasets into neural network pipelines, demonstrating significant reductions in training time while maintaining strong predictive accuracy and improving computational efficiency.
 
 PDF report <https://kamranmunawar.github.io/MSC/UnsupervisedLearning/UnsupervisedLearning.pdf>
 
-## Markov Decision Processes (MDPs) 
+## Markov Decision Processes (MDPs)
 
-Explored MDPs through the Forest Management Problem, demonstrating decision-making under uncertainty. 
-
-Analyzed three key MDP-solving algorithms: Value Iteration (VI), Policy Iteration (PI), and Q-Learning, comparing their effectiveness in dynamic environments. 
+Implemented and analysed reinforcement learning and dynamic programming algorithms to solve Markov Decision Process (MDP) problems in stochastic environments, including Frozen Lake and the Forest Management Problem. Applied and compared Value Iteration (VI), Policy Iteration (PI), and Q-Learning using Python and the Hiive MDP Toolbox, evaluating convergence speed, scalability, CPU time, and reward optimization across varying state-space sizes. Investigated the impact of hyperparameters such as gamma, alpha, and epsilon on learning behaviour and long-term reward strategies, while visualizing optimal policies through heatmaps and state-value analysis. Demonstrated how different MDP algorithms balance exploration, exploitation, and computational efficiency in uncertain and dynamic decision-making environments.
 
 PDF report <https://kamranmunawar.github.io/MSC/MDP/MDP.pdf>
 
-## Optimization Algorithms 
+## Optimization Algorithms
 
-Implemented and compared four local random search algorithms: Randomized Hill Climbing (RHC), Simulated Annealing (SA), Genetic Algorithm (GA), and MIMIC. 
+Implemented and evaluated multiple stochastic optimization algorithms, including Randomized Hill Climbing (RHC), Simulated Annealing (SA), Genetic Algorithms (GA), and MIMIC, across several optimization problems in Python. Analysed algorithm behaviour, convergence patterns, and performance trade-offs in complex search spaces, comparing their effectiveness in finding near-optimal solutions under varying conditions. Investigated the impact of hyperparameter tuning and probabilistic search strategies on optimization efficiency, scalability, and solution quality across different problem domains.
 
-Applied these algorithms to three distinct optimization problems, analyzing their varying behaviors and performance. 
+## Black Box Optimization with Bayesian Techniques
 
-## Black-Box Optimization with Bayesian Techniques 
-
-Optimized eight black-box functions using Bayesian optimization, utilizing GaussianProcessRegressor and botorch.acquisition modules. 
-
-Efficiently navigated and exploited the search space to improve performance in optimizing black-box functions. 
+Developed Bayesian optimization workflows to optimize complex black-box functions using Gaussian Process Regression and acquisition functions from the BoTorch framework. Applied probabilistic surrogate modelling and sequential search strategies to efficiently explore and exploit high-dimensional search spaces while minimizing evaluation costs. Conducted experiments across multiple benchmark optimization functions, analysing convergence behaviour and demonstrating the effectiveness of Bayesian techniques for computationally expensive optimization problems.
 
 <https://github.com/kamranmunawar/Capstone>
 
-## School information on the map
+## School Information Mapping and Visualization
 
-In this project, I gather school rating data from Ofsted and postcode information from the Office for National Statistics. The objective is to merge these datasets and visualize the school information on a map using the plotly.graph_objects library. By combining the school ratings with geographical data, I can create an interactive map that provides valuable insights into the distribution and quality of schools across the desired area
+Developed an interactive geospatial data visualization project combining school performance data from Ofsted with postcode and geographic datasets from Office for National Statistics. Built data processing pipelines in Python to clean, merge, and analyse educational and location-based datasets, enabling visualization of school ratings and regional distributions on interactive maps using Plotly and plotly.graph_objects. The project provides data-driven insights into school quality, accessibility, and geographic trends through dynamic visual analytics and map-based exploration tools.
 
  <https://github.com/kamranmunawar/Schools>
 
