@@ -22,9 +22,15 @@ PDF report <https://kamranmunawar.github.io/MSC/Bayesian/Bayesian.pdf>
 
 ## ARC-AGI Intelligent Reasoning Agent
 
-Designed and implemented a rule-based AI agent for the Abstraction and Reasoning Corpus (ARC-AGI) using Knowledge-Based Artificial Intelligence (KBAI) principles. Developed a generate and test framework capable of solving abstract visual reasoning tasks through heuristic transformations including object detection, connected components, symmetry analysis, color mapping, cropping, and spatial reasoning. Built the system in Python using NumPy and an incremental rule library architecture focused on interpretability, generalization, and computational efficiency. Achieved 100% training accuracy (48/48 tasks) and 93.75% test accuracy (45/48 tasks) while maintaining highly efficient runtime performance. The project also explored limitations of symbolic AI systems in handling procedural reasoning, abstraction, and multi step transformations compared to human problem solving approaches.
+Designed and implemented a rule based AI agent for the Abstraction and Reasoning Corpus (ARC-AGI) using Knowledge-Based Artificial Intelligence (KBAI) principles. Developed a generate and test framework capable of solving abstract visual reasoning tasks through heuristic transformations including object detection, connected components, symmetry analysis, color mapping, cropping, and spatial reasoning. Built the system in Python using NumPy and an incremental rule library architecture focused on interpretability, generalization, and computational efficiency. Achieved 100% training accuracy (48/48 tasks) and 93.75% test accuracy (45/48 tasks) while maintaining highly efficient runtime performance. The project also explored limitations of symbolic AI systems in handling procedural reasoning, abstraction, and multi step transformations compared to human problem solving approaches.
 
 PDF report <https://kamranmunawar.github.io/MSC/ARC-AGI/ARC-AGI.pdf>
+
+## Sentence Reading and Question Answering Agent
+
+Developed a rule based natural language question answering agent capable of reading sentences and answering contextual questions using structured linguistic analysis. Implemented preprocessing, tokenization, and heuristic based parsing techniques to identify subjects, verbs, objects, and prepositional phrases within sentences. Designed lightweight knowledge representation structures inspired by Knowledge Based Artificial Intelligence (KBAI) concepts, including frame based reasoning and production system style rules. The agent handled multiple question types such as “Who,” “What,” “Where,” and “When,” achieving 38/40 accuracy on automated evaluation benchmarks while maintaining linear time complexity O(n) through efficient sequential sentence analysis.
+
+PDF report <https://kamranmunawar.github.io/MSC/ARC-AGI/NLQA.pdf>
 
 ## AI Ethics and Bias Mitigation in Machine Learning
 
